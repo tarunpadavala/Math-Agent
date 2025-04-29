@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "question": "What is 2 + 2?",
+      "solution": "The answer is 4."
+    },
+    {
+      "id": 2,
+      "question": "What is 5 * 6?",
+      "solution": "The answer is 30."
+    },
+    {
+      "id": 3,
+      "question": "What is the square root of 16?",
+      "solution": "The square root of 16 is 4."
+    },
+    {
+      "id": 4,
+      "question": "What is the derivative of x^2?",
+      "solution": "The derivative of x^2 is 2x."
+    },
+    {
+      "id": 5,
+      "question": "What is the integral of x?",
+      "solution": "The integral of x is (1/2)x^2 + C."
+    },
+    {
+      "id": 6,
+      "question": "What is the formula for the area of a circle?",
+      "solution": "Area = πr², where r is the radius."
+    },
+    {
+      "id": 7,
+      "question": "What is 7 squared?",
+      "solution": "7 squared is 49."
+    },
+    {
+      "id": 8,
+      "question": "Simplify: 3(x + 2)",
+      "solution": "Simplified form is 3x + 6."
+    },
+    {
+      "id": 9,
+      "question": "What is the Pythagorean theorem?",
+      "solution": "In a right triangle, a² + b² = c²."
+    },
+    {
+      "id": 10,
+      "question": "What is sin(90 degrees)?",
+      "solution": "sin(90°) = 1."
+    },
+    {
+      "id": 11,
+      "question": "What is the value of pi?",
+      "solution": "The value of pi is approximately 3.14159."
+    },
+    {
+      "id": 12,
+      "question": "What is the limit of 1/x as x approaches infinity?",
+      "solution": "The limit is 0."
+    },
+    {
+      "id": 13,
+      "question": "What is the solution to x + 5 = 10?",
+      "solution": "x = 5."
+    },
+    {
+      "id": 14,
+      "question": "What is the volume of a cube?",
+      "solution": "Volume = side³."
+    },
+    {
+      "id": 15,
+      "question": "Expand (x + 3)(x - 2)",
+      "solution": "Expanded form is x² + x - 6."
+    },
+    {
+      "id": 16,
+      "question": "What is the factorial of 5?",
+      "solution": "5! = 5 × 4 × 3 × 2 × 1 = 120."
+    },
+    {
+      "id": 17,
+      "question": "What is 10 divided by 2?",
+      "solution": "The answer is 5."
+    },
+    {
+      "id": 18,
+      "question": "What is the mean of 2, 4, 6, 8, and 10?",
+      "solution": "The mean is 6."
+    },
+    {
+      "id": 19,
+      "question": "What is the median of 3, 7, 9, 15, 21?",
+      "solution": "The median is 9."
+    },
+    {
+      "id": 20,
+      "question": "What is the mode of 1, 2, 2, 3, 4?",
+      "solution": "The mode is 2."
+    }
+  ]
+  
